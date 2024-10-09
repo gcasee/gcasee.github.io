@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Greg Casee"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "Data Scientist and Chemical Engineer"
   links:
     - label: "Website"
